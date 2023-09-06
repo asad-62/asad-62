@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asad-62
-- 👀 I’m interested in bio-medical engineering in general and bio-signals in particular. 
+- 👀 I’m interested in bio-medical engineering in general and bio-signals & bio-medical imaging in particular. 
 - 💞️ I’m looking to collaborate on projects related to the usgae of bio-signals for early detection of cronic dieases.
 - 📫 How to reach me asad.ullah@tu-ilmenau.de
 
