@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @asad-62
-- 👀 I’m interested in bio-medical engineering in general and bio-signals & bio-medical imaging in particular. 
-- 💞️ I’m looking to collaborate on projects related to the usgae of bio-signals for early detection of cronic dieases.
-- 📫 How to reach me asad.ullah@tu-ilmenau.de
+## Hey, I’m Asad 👋  
 
-<!---
-asad-62/asad-62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🛠️  Computer-vision & deep-learning engineer (Python, PyTorch, TensorFlow, OpenCV).  
+- 🎯  Building CV pipelines for **smart surveillance**, **medical imaging**, **vision-language models (VLMs)** and other vision-first domains.  
+- ⚙️  **MLOps fan** – Docker · Kubernetes · MLflow/DVC · CI/CD · model serving & monitoring.  
+- 🔍  Interests: real-time detection, multi-modal fusion, tiny-ML on edge devices, synthetic-data generation.
+- 🤝  Open to collab on: vision research, scalable ML infra, and cool CV projects.  
+- 📫  asaduet2662@gmail.com  
